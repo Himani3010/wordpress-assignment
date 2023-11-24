@@ -1,0 +1,20 @@
+{
+    "name": "acf/book-listing",
+    "title": "Book Listing",
+    "description": "A custom Book Listing block that displays list of Books with Category Filter & Search.",
+    "style": [ "file:./style.css" ],
+    "category": "widgets",
+    "icon": "book",
+    "keywords": ["testimonial", "quote"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "render.php"
+    },
+    "styles": [
+      
+    ],
+    "supports": {
+        "anchor": false,
+        "jsx": true
+    }
+}
