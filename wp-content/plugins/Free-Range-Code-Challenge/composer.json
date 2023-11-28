@@ -1,0 +1,5 @@
+{
+    "autoload": {
+        "psr-4": {"CODE_CHALLENGE\\":"src"}
+    }
+}

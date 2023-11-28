@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeChallenge\n"
+"POT-Creation-Date: 2023-11-24 15:24+0530\n"
+"PO-Revision-Date: 2023-11-24 15:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: Code Challenge\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: templates/partials/book-single-row.php\n"
+"X-Poedit-SearchPath-2: blocks/book-listing/render.php\n"
+"X-Poedit-SearchPath-3: src/AjaxActions.php\n"
+"X-Poedit-SearchPath-4: src/Core.php\n"
+"X-Poedit-SearchPath-5: src/Traits/Ajax.php\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: blocks/book-listing/render.php:45
+msgid "Filter"
+msgstr ""
+
+#: blocks/book-listing/render.php:53
+msgid "Book Name"
+msgstr ""
+
+#: blocks/book-listing/render.php:54
+msgid "BookDescription"
+msgstr ""
+
+#: src/AjaxActions.php:52
+msgid "No results found"
+msgstr ""
+
+#: src/Core.php:42
+msgid "Books"
+msgstr ""
+
+#: src/Core.php:43
+msgid "Book"
+msgstr ""
+
+#: src/Core.php:44 src/Core.php:45
+msgid "Add New Book"
+msgstr ""
+
+#: src/Core.php:46
+msgid "Edit Book"
+msgstr ""
+
+#: src/Core.php:47
+msgid "New Book"
+msgstr ""
+
+#: src/Core.php:97
+msgid " Books Listing"
+msgstr ""
+
+#: src/Core.php:98
+msgid "A custom block that displays list of books with Category and Search Filter."
+msgstr ""
+
+#: src/Traits/Ajax.php:16
+msgid "Error: Nonce verification failed"
+msgstr ""
